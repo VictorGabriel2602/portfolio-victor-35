@@ -1,0 +1,13 @@
+body{
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border: rgb(0, 0, 0) solid 3px;
+}
+
+img{
+    border-radius: 120px;
+    width: 100px;
+}
