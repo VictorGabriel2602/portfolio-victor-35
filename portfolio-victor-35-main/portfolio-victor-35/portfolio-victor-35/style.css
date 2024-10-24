@@ -1,0 +1,13 @@
+body{
+    background-color: red;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border: rgb(0, 0, 0) solid 9px;
+}
+
+img{
+    border-radius: 120px;
+    width: 220px;
+}
