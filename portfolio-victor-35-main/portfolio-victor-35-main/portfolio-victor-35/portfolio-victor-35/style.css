@@ -1,0 +1,38 @@
+html{
+    background-color: white;
+    margin: 5cm;
+}
+
+body{
+    background-color: red;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border: rgb(0, 0, 0) solid 4px;
+    text-align: center;
+}
+
+img{
+    border-radius: 120px;
+    width: 220px;
+}
+.perfil{
+    color: white;
+}
+.desc{
+    color: white;
+}
+div{
+    display: flex;
+    justify-content: center;
+}
+a{
+    margin: 5px;
+    background-color: rgb(255, 0, 0);
+    padding: 3px;
+    border-radius: 5px;
+}
+h2{
+    text-align: left;
+}
